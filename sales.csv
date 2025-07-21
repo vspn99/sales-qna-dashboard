@@ -1,0 +1,13 @@
+Product,Month,Region,Units Sold,Revenue,Category
+Laptop,January,South,120,600000,Electronics
+Phone,January,North,200,300000,Electronics
+Tablet,January,East,80,160000,Electronics
+Headphones,January,West,150,75000,Accessories
+Laptop,February,South,130,650000,Electronics
+Phone,February,North,220,330000,Electronics
+Tablet,February,East,90,180000,Electronics
+Headphones,February,West,140,70000,Accessories
+Laptop,March,South,110,550000,Electronics
+Phone,March,North,180,270000,Electronics
+Tablet,March,East,100,200000,Electronics
+Headphones,March,West,160,80000,Accessories
