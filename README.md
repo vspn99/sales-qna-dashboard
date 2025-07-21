@@ -6,7 +6,7 @@ An AI-powered sales analytics assistant that answers natural language questions 
 - Upload any sales CSV file
 - Ask natural language questions like:
   - "Which product sold the most?"
-  - "What is the total revenue from laptops?"
+  - "What is the total revenue?"
 - Uses **Google Gemini** for analysis
 
 ## 🛠️ Tech Stack
